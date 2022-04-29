@@ -1,0 +1,16 @@
+PODS:
+  - FFmpegSpec (0.1.0)
+
+DEPENDENCIES:
+  - FFmpegSpec (from `../`)
+
+EXTERNAL SOURCES:
+  FFmpegSpec:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FFmpegSpec: 3f0df7325f658e721d4f514072ae0dc5414730fb
+
+PODFILE CHECKSUM: c95a3dc69d597b20d19be50900c49172e2eb5fe9
+
+COCOAPODS: 1.10.2

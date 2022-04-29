@@ -1,0 +1,22 @@
+{
+  "name": "FFmpegSpec",
+  "version": "0.1.0",
+  "summary": "A short description of FFmpegSpec.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/powerful-paopao/FFmpegSpec",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "powerful-paopao": "yipei.zyp@autonavi.com"
+  },
+  "source": {
+    "git": "https://github.com/powerful-paopao/FFmpegSpec.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "FFmpegSpec/Classes/**/*"
+}

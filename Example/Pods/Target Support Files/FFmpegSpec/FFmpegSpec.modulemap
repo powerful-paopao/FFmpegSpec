@@ -1,0 +1,6 @@
+framework module FFmpegSpec {
+  umbrella header "FFmpegSpec-umbrella.h"
+
+  export *
+  module * { export * }
+}

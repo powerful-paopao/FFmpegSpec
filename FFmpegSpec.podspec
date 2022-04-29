@@ -24,7 +24,7 @@ TODO: Add long description of the pod here.
   s.homepage         = 'https://github.com/powerful-paopao/FFmpegSpec'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'powerful-paopao' => 'yipei.zyp@autonavi.com' }
+  s.author           = { 'powerful-paopao' => '921853928@qq.com' }
   s.source           = { :git => 'https://github.com/powerful-paopao/FFmpegSpec.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
